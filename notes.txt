@@ -1,0 +1,12 @@
+Project emphasis the use of a asynchornous fetch request
+RESOURCE: USE HERO-PATTERN.COM FOR BACKGROUNDS
+RESOURCE: FONT PROVIDED BY GOOGLE API
+RESOUCE: FONT Icons provided by font-awesome.com
+
+-Basic HTML Responsiveness using flex, used several new CSS Tags
+-Use filter: birghtness() as a subtle button enhancing effect
+-An asynchronous function can run anytime independently, it wont stop the browser from completing the loading of a page
+-We wrap this within a function. We set a variable as the apiUrl. We're going to wrap this in a try-catch request. That way it if doesn't work, we can catch the error information and do something with it
+-Const response = await fetch(apiUrl) This constant will not be populated, until we fetch the api, 
+
+// Step by Step Project Breakdown for future review:
